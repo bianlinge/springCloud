@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaClient" />
+        <module name="eurekaServer" />
+        <module name="NIO" />
+        <module name="configServer" />
+        <module name="TurbineDashboard" />
+        <module name="serviceFeign" />
+        <module name="configClient2" />
+        <module name="commandLineRunner" />
+        <module name="springBoot-mybatis" />
+        <module name="webService" />
+        <module name="Zuul" />
+        <module name="utils" />
+        <module name="serviceRibbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commandLineRunner" target="1.8" />
+      <module name="configClient2" target="1.8" />
+      <module name="configServer" target="1.8" />
+      <module name="eurekaClient" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
+      <module name="NIO" target="1.5" />
+      <module name="serviceFeign" target="1.8" />
+      <module name="serviceRibbon" target="1.8" />
+      <module name="springBoot-mybatis" target="1.8" />
+      <module name="springCloud" target="1.5" />
+      <module name="TurbineDashboard" target="1.8" />
+      <module name="utils" target="1.5" />
+      <module name="webService" target="1.8" />
+      <module name="Zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

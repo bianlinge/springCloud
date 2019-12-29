@@ -1,0 +1,125 @@
+[ERROR] 2019-11-07 00:55:38 [main] c.alibaba.druid.pool.DruidDataSource - testWhileIdle is true, validationQuery not set
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)
+[ERROR] 2019-11-07 00:55:38 [Druid-ConnectionPool-Create-1986562346] c.alibaba.druid.pool.DruidDataSource - create connection error, url: jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, errorCode 0, state null
+java.sql.SQLException: connect error, url jdbc:mysql://localhost:3306/xc_course?characterEncoding=utf-8, driverClass com.alibaba.druid.proxy.DruidDriver
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1533)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:2179)

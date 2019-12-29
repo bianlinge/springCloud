@@ -1,0 +1,6 @@
+[WARN ] 2019-11-07 00:55:38 [main] o.m.s.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'categoryMapper' and 'com.imodule.dao.mapper.CategoryMapper' mapperInterface. Bean already defined with the same name!
+[WARN ] 2019-11-07 00:55:38 [main] o.m.s.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'contactsMapper' and 'com.imodule.dao.mapper.ContactsMapper' mapperInterface. Bean already defined with the same name!
+[WARN ] 2019-11-07 00:55:38 [main] o.m.s.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'categoryDao' and 'com.imodule.dao.provider.CategoryDao' mapperInterface. Bean already defined with the same name!
+[WARN ] 2019-11-07 00:55:38 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2019-11-07 00:55:38 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2019-11-07 00:55:38 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

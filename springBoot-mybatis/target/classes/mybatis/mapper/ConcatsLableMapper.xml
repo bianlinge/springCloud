@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.imodule.dao.mapper.ContactsMapper">
+    <!--添加联络人通用可编辑部分信息-->
+    <insert id="addPriInfoLabel" parameterType="java.util.List">
+        INSERT INTO t_contacts_prilabel (
+                name,
+                contactsId,
+                interest,
+                infoRemarks,
+                type,
+                labelName,
+                contents,
+                sortno,
+                createUser,
+                createTime,
+                updateUser,
+                updateTime
+        )
+        VALUES
+        <foreach collection="list" separator="," item="item" index="index">
+            (
+             #{item.name},
+             #{item.contactsId},
+             #{item.interest},
+             #{item.infoRemarks},
+             #{item.type},
+             #{item.labelName},
+             #{item.contents},
+             #{item.sortno},
+             #{item.createUser},
+             NOW(),
+             #{item.updateUser},
+             NOW()
+            )
+        </foreach>
+
+    </insert>
+
+</mapper>
