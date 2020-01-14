@@ -19,7 +19,7 @@
         <module>TurbineDashboard</module>
         <module>Zuul</module>
         <module>webService</module>
-        <module>NIO</module>
+        <module>apiKit</module>
         <module>springBoot-mybatis</module>
         <module>utils</module>
     </modules>
@@ -43,11 +43,7 @@
             <version>2.4</version>
             <classifier>jdk15</classifier>
         </dependency>
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>18.0</version>
-        </dependency>
+
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
