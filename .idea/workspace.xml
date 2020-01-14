@@ -1,101 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea73873c-45e0-4055-8cff-1ee6654b1db1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="ea73873c-45e0-4055-8cff-1ee6654b1db1" name="Default Changelist" comment="整理目录分类">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/NIO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/apiKit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/Char2Byte.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/stream/Char2Byte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/GuavaLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/java/Guava/GuavaLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/Instant_SimpleDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/java1_8/Instant_SimpleDateFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/Inttest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/JasperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/jasper/JasperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/JasperUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/jasper/JasperUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/MyThreadFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/thread/MyThreadFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/NIO_Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/nio/NIO_Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/SwithCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/java1_8/SwithCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/TestConstructor_Staticblock_Instanceinitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/java1_8/TestConstructor_Staticblock_Instanceinitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/TestT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/classLoader/MyClassLoadertest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/classLoader/PathClassLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/encodeAnddecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/java1_8/encodeAnddecode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/zifuji.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/java1_8/zifuji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/en_collateral.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/en_label_due.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/en_label_holiday.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/en_label_loan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/en_label_overdue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/en_title_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/file/abc.jasper" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/resources/file/abc.jasper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/file/abc.jrxml" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/resources/file/abc.jrxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/file/plcview.jasper" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/resources/file/plcview.jasper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/file/plcview.jrxml" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/resources/file/plcview.jrxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/icon_account.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/icon_beneficiary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/icon_charge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/icon_coverage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/icon_payment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/icon_payment_record.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/tc_collateral.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/tc_label_due.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/tc_label_holiday.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/tc_label_loan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/tc_label_overdue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/main/resources/tc_title_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/src/test/java/123.pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/test/java/123.pdf.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/en_collateral.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/en_label_due.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/en_label_holiday.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/en_label_loan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/en_label_overdue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/en_title_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/file/abc.jasper" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/target/classes/file/abc.jasper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/file/abc.jrxml" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/target/classes/file/abc.jrxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/file/plcview.jasper" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/target/classes/file/plcview.jasper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/file/plcview.jrxml" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/target/classes/file/plcview.jrxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/icon_account.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/icon_beneficiary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/icon_charge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/icon_coverage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/icon_payment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/icon_payment_record.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/tc_collateral.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/tc_label_due.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/tc_label_holiday.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/tc_label_loan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/tc_label_overdue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/classes/tc_title_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NIO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TurbineDashboard/TurbineDashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TurbineDashboard/TurbineDashboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zuul/Zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zuul/Zuul.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configClient2/configClient2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/configClient2/configClient2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configServer/configServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/configServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaClient/eurekaClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaClient/eurekaClient.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceFeign/serviceFeign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/serviceFeign/serviceFeign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceRibbon/serviceRibbon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRibbon/serviceRibbon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springBoot-mybatis/springBoot-mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springBoot-mybatis/springBoot-mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springCloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webService/src/main/java/com/imodule/duoxiancheng/Future_Test/BumThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/thread/Future_Test/BumThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webService/src/main/java/com/imodule/duoxiancheng/Future_Test/ColdDishThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/thread/Future_Test/ColdDishThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webService/src/main/java/com/imodule/duoxiancheng/Future_Test/FutureTask_ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/thread/Future_Test/FutureTask_ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webService/src/main/java/com/imodule/duoxiancheng/Future_Test/Future_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/thread/Future_Test/Future_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webService/src/main/java/com/imodule/duoxiancheng/Future_Test/NO_Future_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/apiKit/src/main/java/thread/Future_Test/NO_Future_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webService/src/main/java/com/imodule/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/webService/src/main/java/com/imodule/sort/Sort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6459a3bf-c42f-4023-a100-1dcfa3ef186f" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -166,7 +76,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17559864" />
     <property name="project.structure.side.proportion" value="0.42033383" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -344,7 +254,7 @@
       <workItem from="1577641842046" duration="3162000" />
       <workItem from="1577716886968" duration="1169000" />
       <workItem from="1577860770850" duration="617000" />
-      <workItem from="1579006155428" duration="6724000" />
+      <workItem from="1579006155428" duration="8090000" />
     </task>
     <task id="LOCAL-00001" summary="sort........">
       <created>1579015353353</created>
@@ -353,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579015353353</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="整理目录分类">
+      <created>1579019948729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579019948729</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sort........" />
-    <option name="LAST_COMMIT_MESSAGE" value="sort........" />
+    <MESSAGE value="整理目录分类" />
+    <option name="LAST_COMMIT_MESSAGE" value="整理目录分类" />
   </component>
   <component name="ideajad">
     <property name="annotate" value="false" />
