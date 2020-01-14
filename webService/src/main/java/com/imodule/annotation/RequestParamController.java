@@ -31,16 +31,9 @@ public class RequestParamController {
 	public String requestParamdelivery(@RequestParam String encoding) throws IOException {
 		String token = request.getHeader("token");
 		Properties properties = new Properties();
-		Properties pro = new Properties();
-		InputStream resourceAsStream = RequestParamController.class.getClassLoader().getResourceAsStream("test.properties");
-		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(resourceAsStream,"UTF-8"));
-		pro.load(bufferedReader);
-		for (Map.Entry<Object, Object> entry : pro.entrySet()) {
-			System.out.println(String.valueOf(entry.getKey())+"==="+String.valueOf(entry.getValue()));
-		}
 		InputStream is = RequestParamController.class.getClassLoader().getResourceAsStream("requstHeader.properties");
 		//字节流无法读取中文  会乱码 将字节流转成字符流
-		InputStreamReader inputStreamReader = new InputStreamReader(is,"UTF-8");
+		InputStreamReader inputStreamReader = new InputStreamReader(is,"GBK");
 		BufferedReader bf = new BufferedReader(inputStreamReader);
 		properties.load(bf);
 		Enumeration<String> headerNames = request.getHeaderNames();
