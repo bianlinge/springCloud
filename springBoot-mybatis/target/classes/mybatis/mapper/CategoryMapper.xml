@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.imodule.dao.mapper.CategoryMapper" >
-    <resultMap id="BaseResultMap" type="com.imodule.dao.entity.Category" >
+<mapper namespace="com.dove.dao.mapper.CategoryMapper" >
+    <resultMap id="BaseResultMap" type="com.dove.dao.entity.Category" >
         <id column="id" property="id" jdbcType="VARCHAR" />
         <result column="name" property="name" jdbcType="VARCHAR" />
         <result column="label" property="label" jdbcType="VARCHAR" />
@@ -71,7 +71,7 @@
     <sql id="Base_Column_List" >
         id, name, label, parentid, isshow, orderby, isleaf
     </sql>
-    <select id="selectByExample" resultMap="BaseResultMap" parameterType="com.imodule.dao.entity.CategoryExample" >
+    <select id="selectByExample" resultMap="BaseResultMap" parameterType="com.dove.dao.entity.CategoryExample" >
         select
         <if test="distinct" >
             distinct
@@ -95,13 +95,13 @@
         delete from category
         where id = #{id,jdbcType=VARCHAR}
     </delete>
-    <delete id="deleteByExample" parameterType="com.imodule.dao.entity.CategoryExample" >
+    <delete id="deleteByExample" parameterType="com.dove.dao.entity.CategoryExample" >
         delete from category
         <if test="_parameter != null" >
             <include refid="Example_Where_Clause" />
         </if>
     </delete>
-    <insert id="insert" parameterType="com.imodule.dao.entity.Category" >
+    <insert id="insert" parameterType="com.dove.dao.entity.Category" >
         insert into category (id, name, label,
         parentid, isshow, orderby,
         isleaf)
@@ -109,7 +109,7 @@
         #{parentid,jdbcType=VARCHAR}, #{isshow,jdbcType=CHAR}, #{orderby,jdbcType=INTEGER},
         #{isleaf,jdbcType=CHAR})
     </insert>
-    <insert id="insertSelective" parameterType="com.imodule.dao.entity.Category" >
+    <insert id="insertSelective" parameterType="com.dove.dao.entity.Category" >
         insert into category
         <trim prefix="(" suffix=")" suffixOverrides="," >
             <if test="id != null" >
@@ -158,7 +158,7 @@
             </if>
         </trim>
     </insert>
-    <select id="countByExample" parameterType="com.imodule.dao.entity.CategoryExample" resultType="java.lang.Integer" >
+    <select id="countByExample" parameterType="com.dove.dao.entity.CategoryExample" resultType="java.lang.Integer" >
         select count(*) from category
         <if test="_parameter != null" >
             <include refid="Example_Where_Clause" />
@@ -206,7 +206,7 @@
             <include refid="Update_By_Example_Where_Clause" />
         </if>
     </update>
-    <update id="updateByPrimaryKeySelective" parameterType="com.imodule.dao.entity.Category" >
+    <update id="updateByPrimaryKeySelective" parameterType="com.dove.dao.entity.Category" >
         update category
         <set >
             <if test="name != null" >
@@ -230,7 +230,7 @@
         </set>
         where id = #{id,jdbcType=VARCHAR}
     </update>
-    <update id="updateByPrimaryKey" parameterType="com.imodule.dao.entity.Category" >
+    <update id="updateByPrimaryKey" parameterType="com.dove.dao.entity.Category" >
         update category
         set name = #{name,jdbcType=VARCHAR},
         label = #{label,jdbcType=VARCHAR},

@@ -1,0 +1,5 @@
+RMI 全称是 remote method invocation – 远程方法调用，
+一种用于远程过程调用的应用程序编程接口，是纯 java 的
+网络分布式应用系统的核心解决方案之一。
+
+java远程消息交换协议为JRMP进行通信

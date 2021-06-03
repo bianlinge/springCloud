@@ -1,0 +1,11 @@
+{
+  "name" : "zhangsan",
+  "age" : 11,
+  "birth" : "2010-10-10",
+  "address" : {
+    "homeAddress" : "New York",
+    "workAddress" : "Tokyo"
+  },
+  "friends" : [ "weiying", "caifang" ],
+  "info" : { }
+}

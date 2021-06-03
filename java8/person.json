@@ -1,0 +1,14 @@
+{
+  "name" : "zhangsan",
+  "age" : 11,
+  "birth" : "2021-04-10 09:22:24",
+  "address" : {
+    "homeAddress" : "New York",
+    "workAddress" : "Tokyo"
+  },
+  "friends" : [ "weiying", "caifang" ],
+  "info" : {
+    "height" : "175cm",
+    "weight" : "80kg"
+  }
+}

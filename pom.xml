@@ -4,51 +4,90 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.imodule</groupId>
+    <groupId>com.dove</groupId>
     <artifactId>springCloud</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>eurekaServer</module>
-        <module>configServer</module>
-        <module>eurekaClient</module>
-        <module>configClient2</module>
-        <module>serviceFeign</module>
-        <module>serviceRibbon</module>
-        <module>commandLineRunner</module>
+        <module>feign</module>
+        <module>ribbon</module>
         <module>TurbineDashboard</module>
         <module>Zuul</module>
-        <module>webService</module>
-        <module>apiKit</module>
+        <module>web</module>
         <module>springBoot-mybatis</module>
+        <module>springBoot-mongodb</module>
+        <module>springBoot-activemq</module>
         <module>utils</module>
+        <module>springBoot-kafka</module>
+        <module>springBoot-zookeeper</module>
+        <module>springBoot-ZKRegister</module>
+        <module>springBoot-redis</module>
+        <module>springBoot-FTPClient</module>
+        <module>spring</module>
+        <module>rpc</module>
+        <module>dubbo-provider</module>
+        <module>client</module>
+        <module>message</module>
+        <module>mongodb</module>
+        <module>shiro</module>
+        <module>redis</module>
+        <module>io</module>
     </modules>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.4.RELEASE</version>
+    </parent>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+        <spring-cloud.version>Finchley.SR1</spring-cloud.version>
+    </properties>
 
     <dependencies>
+
+        <!-- 集成lombok 框架 -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <!-- swagger2核心依赖 -->
+        <!--第一个是API获取的包，第二是官方给出的一个ui界面。
+        这个界面可以自定义，默认是官方的，对于安全问题，以及ui路由设置需要着重思考-->
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
             <version>2.8.0</version>
         </dependency>
 
+        <!-- swagger-ui为项目提供api展示及测试的界面 -->
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
             <version>2.8.0</version>
         </dependency>
-
-        <dependency>
-            <groupId>net.sf.json-lib</groupId>
-            <artifactId>json-lib</artifactId>
-            <version>2.4</version>
-            <classifier>jdk15</classifier>
-        </dependency>
+        <!-- swagger2 end -->
 
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.62</version>
+            <version>1.2.47</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.0</version>
             <scope>compile</scope>
+        </dependency>
+
+        <!--spring-test-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 </project>

@@ -1,0 +1,25 @@
+[WARN ] 2020-05-11 00:01:27 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:01:27 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:01:27 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:03:40 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:03:40 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:03:40 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:06:48 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:06:48 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:06:48 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:07:58 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:08:30 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:08:30 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:08:30 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:12:37 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:12:37 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:12:37 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:14:14 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:14:14 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:14:14 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:24:50 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:24:50 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:24:50 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:42:34 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.imodule.dao.mapper, com.imodule.dao.provider]' package. Please check your configuration.
+[WARN ] 2020-05-11 00:42:34 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+[WARN ] 2020-05-11 00:42:34 [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

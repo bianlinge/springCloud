@@ -29,7 +29,7 @@
         </javaTypeResolver>
 
         <!-- 生成实体类的包名和位置 注意targetProject的值为实体类放在工程中具体位置的相对路径，-->
-        <javaModelGenerator targetPackage="com.imodule.dao.entity"
+        <javaModelGenerator targetPackage="com.dove.dao.entity"
                             targetProject="src/main/java" >
             <!-- 是否在当前路径下新加一层schema,eg：fase路径com.oop.eksp.user.model， true:com.oop.eksp.user.model.[schemaName] -->
             <property name="enableSubPackages" value="true"/>
@@ -51,7 +51,7 @@
             <property name="enableSubPackages" value="true" />
         </javaClientGenerator>-->
 
-        <javaClientGenerator targetPackage="com.imodule.dao.provider"
+        <javaClientGenerator targetPackage="com.dove.dao.provider"
                              targetProject="src/main/java" type="ANNOTATEDMAPPER" >
             <!-- 是否在当前路径下新加一层schema,eg：fase路径com.oop.eksp.user.model， true:com.oop.eksp.user.model.[schemaName] -->
             <property name="enableSubPackages" value="true" />
