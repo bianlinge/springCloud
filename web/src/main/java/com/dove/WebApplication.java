@@ -3,7 +3,6 @@ package com.dove;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.jms.annotation.EnableJms;
-import org.springframework.stereotype.Component;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @SpringBootApplication

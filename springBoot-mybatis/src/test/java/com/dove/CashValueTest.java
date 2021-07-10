@@ -36,6 +36,7 @@ public class CashValueTest {
     CashValueImpl cashValueImpl;
   @Test
     public void test(){
-      cashValueImpl.seachCashValue();
+    List<CashValueApplay> cashValueApplays = cashValueImpl.seachCashValue();
+    System.out.println(cashValueApplays.get(0));
   }
 }

@@ -1,4 +1,4 @@
-package dove.tiff;
+package dove.img.tiff;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
